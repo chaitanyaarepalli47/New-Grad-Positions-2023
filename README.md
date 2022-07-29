@@ -40,7 +40,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Optiver~~](https://www.optiver.com/working-at-optiver/career-opportunities/6254739002/?gh_src=9fb491cd2&gh_src=9fb491cd2) | Austin, TX | Graduate Software Engineer 2023 |
 | [~~Oracle~~](https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/175340/?location=United+States&locationId=300000000149325&selectedFlexFieldsFacets=%22AttributeChar13%7CCampus%22) | US | Software Engineer 2023 Grads |
 | [Cisco (Meraki)](https://jobs.cisco.com/jobs/ProjectDetail/Full-Stack-Engineer-Early-Career-Meraki/1372139) | San Francisco, CA | Full Stack Engineer, Early Career (Meraki) |
-| [Stytch](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | San Francisco, CA | New Grad, Software Engineer |
+| [~~Stytch~~](https://jobs.ashbyhq.com/stytch/b4ee9734-3657-4393-8eca-269ae179d7eb) | San Francisco, CA | New Grad, Software Engineer |
 | [SIG](https://careers.sig.com/job/SUSQA004Y6229)  | Bala Cynwyd, PA | Software Developer--Campus 2023 Start |
 | [~~Five Rings~~](https://fiverings.avature.net/careers)  | New York, NY | Software Developer--Campus 2023 Start |
 | [~~Otter.ai~~](https://otter.ai/job-detail?gh_jid=5120493003&gh_src=null)  | Mountain View, CA | Software Engineer, Backend (New Grad) |
