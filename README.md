@@ -24,7 +24,7 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [~~Egen Solutions~~](https://jobs.lever.co/egensolutions/b8241d47-ab6c-456c-823d-1a6bd59e402f) | Naperville, IL | Software Engineer, University Graduates, 2023 |
 | [~~Amazon~~](https://www.amazon.jobs/en/jobs/2080728/software-development-engineer-2023-us) | US | New Grad SDE |
 | [Sunshine - removed](https://jobs.lever.co/sunshine/a576f278-9748-49ab-b0b5-1104ef8880c4/apply) | Palo Alto, CA | SWE New Grad 2023 | 
-| [Jane Street](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
+| [~~Jane Street~~](https://www.janestreet.com/join-jane-street/position/6214578002/) | NYC | Software Engineer, New Grad |
 | [Raytheon Technologies](https://careers.rtx.com/global/en/job/01544342) | Sterling, VA | Software Engineer I, New Grad |
 | [Cruise -- tried for refferals](https://boards.greenhouse.io/cruise/jobs/3466899?gh_jid=3466899&gh_src=1xdap08r1) | San Francisco, CA | New Grad, Software Engineer |
 | [~~Goldman Sachs~~](https://www.goldmansachs.com/careers/students/programs/americas/new-analyst-program.html) | US | 2023 New Analyst Program |
